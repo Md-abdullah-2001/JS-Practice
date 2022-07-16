@@ -1,0 +1,12 @@
+.parent-1, .child{
+    width: 250px;
+    height: 180px;
+    border: 2px solid green;
+}
+.parent-1{
+    background-color: rgb(251, 11, 11);
+}
+.child{
+    background-color: blue;
+    transform: scale(.6) rotate(45deg) translate(10px);
+}

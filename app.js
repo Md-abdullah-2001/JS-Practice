@@ -1,4 +1,8 @@
 
-let me = "Abdullah al ";
-let year = 22;
-console.log( me + year);
+let age=25;
+if(age >18){
+    console.log("Fully Adult");
+}
+else{
+    console.log("Not an Adult");
+}
